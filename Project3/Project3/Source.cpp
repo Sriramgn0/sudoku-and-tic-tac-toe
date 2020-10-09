@@ -1,3 +1,6 @@
+//It's a game you need to add glut plugin in Visual studio to run this code
+
+
 #include <math.h>
 #include<dos.h>
 #include <stdlib.h>
